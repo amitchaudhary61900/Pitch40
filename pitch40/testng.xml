@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	
+<listeners>
+<listener class-name="com.pitch40.TestUtils.Listners"/>
+</listeners>	
+	
+  <test thread-count="5" name="Verify user is able to accesss pitch40 welcome pages.">
+    <classes>
+		 <class name="com.pitch40.test.WelcomeTest"/>
+	   </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="Verify investor is able to sign-up as an investor in the application and complete the onboarding process.">
+    <classes>
+   		 <class name="com.pitch40.test.InvestorSignUpTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

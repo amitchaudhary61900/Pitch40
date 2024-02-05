@@ -1,0 +1,69 @@
+
+[
+    
+    {
+		"WelcomeTest_validationAttr":"content-desc",
+		"WelcomeTest_actualassertioWelcomPage":"Hello, there!",
+		"WelcomeTest_actaulassertInvLogin":"Register as Investor",
+		"WelcomeTest_actaulassertFoundLogin":"Register as startup" ,
+	
+		"InvestorSignUpTest_validationAttr":"content-desc",
+		"InvestorSignUpTest_actualassertName":"Please enter your username",
+		"InvestorSignUpTest_actualassertEmail":"Please enter your email id",
+		"InvestorSignUpTest_Name":"Amit Investor",
+		"InvestorSignUpTest_Email":"investor299Oct@gmail.com",
+		"InvestorLogin_EmailID":"c21investor@gmail.com",
+		"InvestorSignUpTest_OtpPageValidation": "Find your Unicorn",
+		"InvestorSignUpTest_EnterOtp":"000000",
+		"InvestorSignUpTest_CompanyName":"TRAN TC",
+		"InvestorSignUpTest_TellUsAbout":"Our mission is to build a platform where user can pitch their videos and investor can view and send offer to the particular pitch if they are interest",
+		
+		"InvestorSignUpTest_InvestorType":"Angel",
+		"InvestorSignUpTest_InvestmentStage":"Seed",
+		
+		"Investor_Sports":"Sports and fitness",
+		"InvestorCyber":"Cybersecurity and data privacy",
+		"InvestorRetail":"Retail and e-commerce",
+		
+		"InvestorSignUpTest_UpdateInvestmentStage": "Series A",
+		
+	
+		"InvestorMyProfile_CompanyAnswer01": "Yes",
+		"InvestorMyProfile_CompanyAnswer02": "Yes",
+		"InvestorMyProfile_CompanyAnswer03": "Yes",
+		"InvestorMyProfile_CompanyAnswer04": "Yes",
+		"InvestorMyProfile_CompanyAnswer05": "We are looking for dynamic team to build a product from stratch.",
+		"InvestorMyProfile_CompanyAnswer06": "Idea stage",
+		
+		"InvestorMyProfile_FounderAnswer01":"2",
+		"InvestorMyProfile_FounderAnswer02":"4",
+		"InvestorMyProfile_FounderAnswer03":"2",
+		"InvestorMyProfile_FounderAnswer04":"3",
+		"InvestorMyProfile_FounderAnswer05":"2",
+		
+		"InvestorMyProfile_TeamsAnswer01":"25%-50%",
+		"InvestorMyProfile_TeamsAnswer02":"75%-100%",
+		
+		"InvestorMyProfile_SolutionAnswer01":"We study the current market situation and invest accordingly",
+		"InvestorMyProfile_SolutionAnswer02":"10-100 million",
+		"InvestorMyProfile_SolutionAnswer03":"< 3"
+
+		
+		
+
+		
+		
+		
+		
+	}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+]

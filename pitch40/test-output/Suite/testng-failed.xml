@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.pitch40.TestUtils.Listners"/>
+  </listeners>
+  <test thread-count="5" name="Verify investor is able to sign-up as an investor in the application and complete the onboarding process.(failed)">
+    <classes>
+      <class name="com.pitch40.test.InvestorSignUpTest">
+        <methods>
+          <include name="InvestorOnboarding" invocation-numbers="0"/>
+          <include name="tearDown"/>
+          <include name="ConfigureAppium"/>
+        </methods>
+      </class> <!-- com.pitch40.test.InvestorSignUpTest -->
+    </classes>
+  </test> <!-- Verify investor is able to sign-up as an investor in the application and complete the onboarding process.(failed) -->
+</suite> <!-- Failed suite [Suite] -->
